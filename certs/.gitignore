@@ -1,0 +1,5 @@
+# Nunca subir llaves ni certificados
+*.p12
+*.jks
+*.pem
+*.key
